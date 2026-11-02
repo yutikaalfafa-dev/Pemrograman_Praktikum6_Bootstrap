@@ -15,8 +15,4 @@ Repository ini dibuat untuk mengumpulkan tugas **Praktikum 6 Pemrograman Web**. 
 * **FontAwesome** (Ikon pendukung antarmuka)
 * **JavaScript** (Fitur interaktif dan fungsionalitas unggah foto profil secara dinamis)
 
-## Struktur File Repository
-```text
-├── bootstrap-5.3.8-dist/   # Folder lokal framework Bootstrap 5
-├── 1.jpeg                  # Aset foto profil utama
-└── index.html              # Berkas utama halaman web portofolio
+
